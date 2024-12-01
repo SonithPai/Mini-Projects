@@ -17,3 +17,7 @@ In this game, shapes will be generated and you have to guess which shape it is.
 ## Turtle Race
 
 In this game, you have to answer multiple questions to make the turtle move forward. There are 28 questions and all of them are about turtles and tortoises. The goal is to make the turtle to reach the square at the end by answering all of the questions right. At the end, your total score will be generated and shown, along with a remark. Hope You Have Fun Playing This Game!! This is my favourite game!!!
+
+## Circle of Triangles
+
+In this game you will enter the number of circles you want and in the Turtle Graphics those many circles will be drawn.

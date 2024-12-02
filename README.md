@@ -1,6 +1,6 @@
 # Mini Projects
 
-These are a few small python projects that I've been working on
+These are a few small python projects that I've been working on.
 
 ## Coin Flip
 
@@ -21,3 +21,7 @@ In this game, you have to answer multiple questions to make the turtle move forw
 ## Circle of Triangles
 
 In this game you will enter the number of circles you want and in the Turtle Graphics those many circles will be drawn.
+
+## Math Questions Game
+
+The Math Questions Game  is an interactive and beginner-friendly game, designed to test and improve your basic arithmetic skills. The game generates random math problems involving multiplication.
